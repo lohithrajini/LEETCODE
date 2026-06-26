@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3360-stone-removal-game](https://github.com/lohithrajini/LEETCODE/tree/master/3360-stone-removal-game) |
+| [3516-find-closest-person](https://github.com/lohithrajini/LEETCODE/tree/master/3516-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
