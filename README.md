@@ -16,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2798-number-of-employees-who-met-the-target](https://github.com/lohithrajini/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lohithrajini/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 <!---LeetCode Topics End-->
