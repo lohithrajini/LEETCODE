@@ -14,10 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/lohithrajini/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3360-stone-removal-game](https://github.com/lohithrajini/LEETCODE/tree/master/3360-stone-removal-game) |
 ## Array
 |  |
 | ------- |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lohithrajini/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lohithrajini/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
