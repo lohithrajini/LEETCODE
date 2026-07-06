@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/lohithrajini/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3360-stone-removal-game](https://github.com/lohithrajini/LEETCODE/tree/master/3360-stone-removal-game) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/lohithrajini/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/lohithrajini/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lohithrajini/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/lohithrajini/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/lohithrajini/LEETCODE/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
