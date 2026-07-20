@@ -2,13 +2,11 @@ import java.util.Arrays;
 
 class Solution {
     public int fillCups(int[] amount) {
-        int time = 0;
-        while (amount[0] + amount[1] + amount[2] > 0) {
-            Arrays.sort(amount);
-            amount[2]--;
-            if (amount[1] > 0) amount[1]--;
-            time++;
-        }
-        return time;
+        Arrays.sort(amount);
+
+        int total = amount[0] + amount[1] + amount[2];
+        int largest = amount[2];
+
+        return Math.max(largest, (total + 1) / 2);
     }
 }
