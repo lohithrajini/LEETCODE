@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lohithrajini/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/lohithrajini/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/lohithrajini/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lohithrajini/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lohithrajini/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lohithrajini/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/lohithrajini/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/lohithrajini/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2974-minimum-number-game](https://github.com/lohithrajini/LEETCODE/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
@@ -53,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/lohithrajini/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/lohithrajini/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
