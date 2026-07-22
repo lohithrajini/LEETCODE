@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lohithrajini/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/lohithrajini/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1991-find-the-middle-index-in-array](https://github.com/lohithrajini/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/lohithrajini/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lohithrajini/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/lohithrajini/LEETCODE/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lohithrajini/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/lohithrajini/LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
