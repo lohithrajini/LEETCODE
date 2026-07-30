@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/lohithrajini/LEETCODE/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/lohithrajini/LEETCODE/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2769-find-the-maximum-achievable-number](https://github.com/lohithrajini/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lohithrajini/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3360-stone-removal-game](https://github.com/lohithrajini/LEETCODE/tree/master/3360-stone-removal-game) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lohithrajini/LEETCODE/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3516-find-closest-person](https://github.com/lohithrajini/LEETCODE/tree/master/3516-find-closest-person) |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/lohithrajini/LEETCODE/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/lohithrajini/LEETCODE/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lohithrajini/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lohithrajini/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/lohithrajini/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/lohithrajini/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
